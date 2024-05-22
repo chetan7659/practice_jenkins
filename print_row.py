@@ -4,7 +4,7 @@ def print_pattern(n):
         print('* ' * (i + 1))
 
 # Get user input
-rows = int(input("Enter the number of rows: "))
+#rows = int(input("Enter the number of rows: "))
 
 # Call the function to print the pattern
-print_pattern(rows)
+print_pattern(6)
